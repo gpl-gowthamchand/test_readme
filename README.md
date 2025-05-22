@@ -83,9 +83,14 @@ I love combining clean code with modern design to deliver functional and beautif
 
 ## 🏆 GitHub Trophies
 
+<br/>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gpl-gowthamchand&theme=monokai&no-bg=true&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gpl-gowthamchand&theme=onedark&no-frame=true&no-bg=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues&margin-w=10&row=2&column=3" />
 </p>
+
+<br/>
+
 
 ---
 
