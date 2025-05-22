@@ -101,6 +101,7 @@ I love combining clean code with modern design to deliver functional and beautif
 </p>
 
 ## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gpl-gowthamchand/gpl-gowthamchand/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/gpl-gowthamchand/test_readme/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
