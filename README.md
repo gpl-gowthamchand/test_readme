@@ -100,8 +100,3 @@ I love combining clean code with modern design to deliver functional and beautif
   <img src="https://github-contributor-stats.vercel.app/api?username=gpl-gowthamchand&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gpl-gowthamchand/test_readme/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
