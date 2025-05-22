@@ -56,18 +56,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gpl-gowthamchand&theme=gotham&hide_border=true&include_all_commits=true&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gpl-gowthamchand&show_icons=true&theme=radical&hide_border=true&border_radius=10" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gpl-gowthamchand&theme=gotham&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gpl-gowthamchand&theme=radical&hide_border=true&border_radius=10" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpl-gowthamchand&theme=gotham&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpl-gowthamchand&layout=compact&theme=radical&hide_border=true&border_radius=10" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gpl-gowthamchand&theme=gotham&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gpl-gowthamchand&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
 </p>
 
 ---
@@ -75,4 +75,4 @@
 ## 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=gpl-gowthamchand&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+</p> 
