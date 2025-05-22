@@ -3,10 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=40&pause=2&speed=20&color=F7F7F7&background=30AADD00&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hello!%F0%9F%91%8B;I'm+Gowtham;Welcome+To+My+GitHub!%F0%9F%98%8A" width="100%">
     <br/>
     <img src="https://img.shields.io/badge/Android%20Dev-%2376FF03?style=flat&logo=android&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Machine%20Learning-%23F9A825?style=flat&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Portfolio-Live-%23000000?style=flat&logo=firefox&logoColor=#FF7139"/>
+    <img src="https://img.shields.io/badge/Frontend%20Dev-%2361DAFB?style=flat&logo=react&logoColor=black"/>
+    <a href="https://gowthamchand.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Live-%23000000?style=flat&logo=firefox&logoColor=%23FF7139"/>
+    </a>
   </h1>
 </div>
+
 
 <h3 align="center">Web & App Developer | Merging Creativity with Functionality</h3>
 
